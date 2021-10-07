@@ -12,7 +12,7 @@
   
 ## 🛠 Skills
 ```
-🟢 Html   🟢 Css   🟢 JavaScript
+🟢 Html   🟢 Css   🟢 JavaScript  🟢 React
 ```
 ```
 🟡 Python     🟡 C
