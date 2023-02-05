@@ -12,10 +12,10 @@
   
 ## 🛠 Skills
 ```
-🟢 Html   🟢 Css   🟢 JavaScript  🟢 React
+🟢 Html   🟢 Css   🟢 JavaScript  🟢 React  🟢 Android
 ```
 ```
-🟡 Python     🟡 C
+🟡 Python     🟡 C     🟡 Java
 
 ```
 
