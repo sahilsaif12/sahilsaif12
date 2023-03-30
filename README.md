@@ -5,14 +5,14 @@
   
 ## 🚀 I'm an aspiring frontend developer
 
-    🔰  I'm currently learning React.js
+    🔰  I'm currently learning App development and spring boot
     🔰 Always keen for any type of tech collaboration
     😊 I'm a person who wants to live a guilt free life always.
 
   
 ## 🛠 Skills
 ```
-🟢 Html   🟢 Css   🟢 JavaScript  🟢 React  🟢 Android
+🟢 Html   🟢 Css   🟢 JavaScript  🟢 React 🟢 Spring Boot 🟢 Node js 🟢 MongoDb 🟢 firebase  🟢 Android
 ```
 ```
 🟡 Python     🟡 C     🟡 Java
