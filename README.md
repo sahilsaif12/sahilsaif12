@@ -3,19 +3,19 @@
 
 
   
-## 🚀 I'm an aspiring frontend developer
+## 🚀 I'm a skilled full stack developer
 
-    🔰  I'm currently learning App development and spring boot
+    🔰  Learning more throught out the domain on different technologies and looking for job opportunity in software development
     🔰 Always keen for any type of tech collaboration
-    😊 I'm a person who wants to live a guilt free life always.
+    😊 I'm a person who wants to live a guilt free life always
 
   
 ## 🛠 Skills
 ```
-🟢 Html   🟢 Css   🟢 JavaScript  🟢 React 🟢 Spring Boot 🟢 Node js 🟢 MongoDb 🟢 firebase  🟢 Android
+🟢 Html   🟢 Css   🟢 JavaScript  🟢 React 🟢 Spring Boot 🟢 Node js 🟢 Express js 🟢 MongoDb 🟢 firebase  🟢 Android
 ```
 ```
-🟡 Python     🟡 C     🟡 Java
+🟡 Python     🟡 C     🟡 Java     🟡 C#
 
 ```
 
