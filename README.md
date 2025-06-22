@@ -3,7 +3,7 @@
 
 
   
-## 🚀 I'm a skilled full stack developer
+## 🚀 Software Engineer
 
     🔰  Learning more throught out the domain on different technologies and looking for job opportunity in software development
     🔰 Always keen for any type of tech collaboration
@@ -12,10 +12,16 @@
   
 ## 🛠 Skills
 ```
-🟢 Html   🟢 Css   🟢 JavaScript  🟢 React 🟢 Spring Boot 🟢 Node js 🟢 Express js 🟢 MongoDb 🟢 firebase  🟢 Android
+🟢 Html   🟢 Css   🟢 JavaScript    🟢 typeScript  🟢 React  🟢 Tailwind  🟢 Material ui  🟢 shadcn 
 ```
 ```
-🟡 Python     🟡 C     🟡 Java     🟡 C#
+🟡 Node js 🟡 Express js  🟡 Flask  🟡 Spring Boot 
+```
+```
+🟣 Postgres  🟣 Mysql  🟣 MongoDb 🟣 Redis
+```
+```
+🔵 Python     🔵 javascript     🔵 Java     🔵 C#
 
 ```
 
