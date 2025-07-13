@@ -12,7 +12,7 @@
   
 ## 🛠 Skills
 ```
-🟢 Html   🟢 Css   🟢 JavaScript    🟢 typeScript  🟢 React  🟢 Tailwind  🟢 Material ui  🟢 shadcn 
+🟢 Html   🟢 Css   🟢 JavaScript    🟢 typeScript  🟢 React 🟢 Next  🟢 Tailwind  🟢 Material ui  🟢 shadcn 
 ```
 ```
 🟡 Node js 🟡 Express js  🟡 Flask  🟡 Spring Boot 
